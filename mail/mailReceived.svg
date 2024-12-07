@@ -1,0 +1,14 @@
+<svg width="110" height="98" viewBox="0 0 110 98" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M57.4628 2.14862L103.162 40.2723C104.778 41.62 103.825 44.25 101.721 44.25H8.52956C6.40457 44.25 5.46394 41.5756 7.12107 40.2454L54.613 2.12175C55.4483 1.45126 56.6404 1.4625 57.4628 2.14862Z" fill="white" stroke="black" stroke-width="1.5"/>
+<rect x="5.75" y="38.75" width="98.5" height="58.5" rx="4.25" fill="white" stroke="black" stroke-width="1.5"/>
+<path d="M7 96L55 66L103 96" stroke="black" stroke-width="1.5"/>
+<path d="M16.75 17C16.75 15.7574 17.7574 14.75 19 14.75H91C92.2426 14.75 93.25 15.7574 93.25 17V46.6154L61.7584 69.25H48.2416L16.75 46.6154V17Z" fill="white" stroke="black" stroke-width="1.5"/>
+<path d="M29 25H81" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M29 32H81" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M29 39H81" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M29 46H81" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M29 53H81" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M36 60H74.5" stroke="black" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M7 40L55 74L103 40" stroke="black" stroke-width="1.5"/>
+<circle cx="55" cy="70" r="9.25" fill="#8B322C" stroke="black" stroke-width="1.5"/>
+</svg>
